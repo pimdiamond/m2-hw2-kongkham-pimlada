@@ -1,1 +1,2 @@
-# m2-hw2-kongkham-pimlada
+- I had no issues while I was completing this assignment
+- No outside resources were used
